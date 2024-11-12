@@ -1,3 +1,5 @@
+The exercise files are for these assignments. The index files are for replacing all html and css and building the program with only js.
+
 # Bucket-List
 Make bucket list and use only js dom to create all element, no using html or css
 
