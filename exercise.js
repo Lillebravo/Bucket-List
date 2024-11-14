@@ -59,7 +59,7 @@ bucketListCounter += 3;
 console.log(console.log(Array.from(listOfGoals.children)));
 
 // 9.
-const ownerName = document.getElementsByClassName("owner")[0];
+const ownerName = document.querySelector(".owner");
 ownerName.innerHTML = "Jerry´s";
 
 // 10.
